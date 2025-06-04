@@ -3,9 +3,9 @@ Data Source: https://www.kaggle.com/datasets/rounakbanik/pokemon
 
 
 Input:
-  ● Set your desired team size using the slider
-  ● Enter Pokémon names in the text fields (or click "Random Team")
-  ● Use the buttons to access different features:
+  Set your desired team size using the slider
+  Enter Pokémon names in the text fields (or click "Random Team")
+  Use the buttons to access different features:
 
   
 Features:
